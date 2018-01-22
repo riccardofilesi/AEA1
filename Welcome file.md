@@ -5,7 +5,7 @@
 | Riccardo Filesi | 460856|
 
 ## Research Question
-Have the unconventional monetary policies - namely [SMP](https://www.ecb.europa.eu/pub/pdf/other/mb201006_focus01.en.pdf?2b5c64d483a41a019fd461f595a36b46)[OMT](https://www.ecb.europa.eu/press/pr/date/2012/html/pr120906_1.en.html), [QE](https://www.ecb.europa.eu/explainers/show-me/html/app_infographic.en.html)implemented by the ECB 
+Have the unconventional monetary policies - namely [SMP](https://www.ecb.europa.eu/pub/pdf/other/mb201006_focus01.en.pdf?2b5c64d483a41a019fd461f595a36b46), [OMT](https://www.ecb.europa.eu/press/pr/date/2012/html/pr120906_1.en.html), [QE](https://www.ecb.europa.eu/explainers/show-me/html/app_infographic.en.html)implemented by the ECB 
  If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
@@ -148,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjEwOTNdfQ==
+eyJoaXN0b3J5IjpbMTAwOTY4NTM5MV19
 -->
