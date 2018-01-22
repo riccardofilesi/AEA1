@@ -11,7 +11,7 @@ Have the post-crisis unconventional monetary policies implemented by the ECB - n
 [![Demo Doccou alpha](https://j.gifs.com/mQ8V5n.gif)](https://www.youtube.com/watch?v=tB2CM2ngpQg)
 >“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.” - [Mario Draghi, UKTI's Global Investment Conference (26th July 2012)](https://www.youtube.com/watch?v=hMBI50FXDps&t=441s)
 
-The ECB is one of the main player in the Eurosystem. During the last financial crisis, it had the hard task to preserve the existence of a 
+The ECB is one of the main player in the Eurosystem. During the last financial crisis, it had the hard task to preserve the existence of a single currency in the Eurozone, 
 
 
 # Files
@@ -153,5 +153,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAxNjE4MzRdfQ==
+eyJoaXN0b3J5IjpbODIzNTU0OTEwXX0=
 -->
