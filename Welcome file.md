@@ -9,9 +9,7 @@ Have the post-crisis unconventional monetary policies implemented by the ECB - n
 
 # Motivation
 
-[![Demo Doccou alpha](https://j.gifs.com/mQ8V5n.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
-## Support
+[![Demo Doccou alpha](https://j.gifs.com/mQ8V5n.gif)](https://www.youtube.com/watch?v=tB2CM2ngpQg)
 >“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.”
 
 
@@ -154,5 +152,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNjU3MzE3XX0=
+eyJoaXN0b3J5IjpbLTEwNjMyMDk1MzFdfQ==
 -->
