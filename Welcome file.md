@@ -9,7 +9,7 @@ Have the post-crisis unconventional monetary policies implemented by the ECB - n
 
 # Motivation
 
->Whitin 
+>“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.”
 
 # Files
 
@@ -150,5 +150,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODA1MTc4Ml19
+eyJoaXN0b3J5IjpbMTEyMTc1MTQ2XX0=
 -->
