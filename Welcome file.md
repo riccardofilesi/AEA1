@@ -3,7 +3,7 @@
 |--|--|
 |Riccardo Filesi | 460856|
 
-|*Please find [here](https://github.com/riccardofilesi/AEA1/blob/master/Welcome%20file.md) the repository*
+|*Please find [here]|(https://github.com/riccardofilesi/AEA1/blob/master/Welcome%20file.md) the repository*
 ## Research Question
 Have the post-crisis unconventional monetary policies implemented by the ECB - namely [SMP](https://www.ecb.europa.eu/pub/pdf/other/mb201006_focus01.en.pdf?2b5c64d483a41a019fd461f595a36b46), [LTROs](https://www.ecb.europa.eu/press/pr/date/2011/html/pr111208_1.en.html), [OMT](https://www.ecb.europa.eu/press/pr/date/2012/html/pr120906_1.en.html) and [QE](https://www.ecb.europa.eu/explainers/show-me/html/app_infographic.en.html) -  increased income inequalities in the EU?
 
@@ -152,5 +152,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzUzMDM2M119
+eyJoaXN0b3J5IjpbLTEzMjE4NjI0NzldfQ==
 -->
