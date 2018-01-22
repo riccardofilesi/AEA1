@@ -9,7 +9,9 @@ Have the post-crisis unconventional monetary policies implemented by the ECB - n
 # Motivation
 
 [![Demo Doccou alpha](https://j.gifs.com/mQ8V5n.gif)](https://www.youtube.com/watch?v=tB2CM2ngpQg)
->“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.” - [Mario Draghi, UKTI's Global Investment Conference (26th July 2012)](https://www.youtube.com/watch?v=tB2CM2ngpQg)
+>“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.” - [Mario Draghi, UKTI's Global Investment Conference (26th July 2012)](https://www.youtube.com/watch?v=hMBI50FXDps&t=441s)
+
+The ECB
 
 
 # Files
@@ -151,5 +153,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI2NTMyOF19
+eyJoaXN0b3J5IjpbLTE5Mjk1NjU3MV19
 -->
