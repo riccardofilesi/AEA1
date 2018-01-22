@@ -9,7 +9,7 @@ Have the post-crisis unconventional monetary policies implemented by the ECB - n
 
 # Motivation
 
-[![Demo Doccou alpha](https://gifs.com/gif/mario-draghi-s-whatever-it-takes-2v2ABj?muted=false)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[[Demo Doccou alpha](https://gifs.com/gif/mario-draghi-s-whatever-it-takes-2v2ABj?muted=false)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 ## Support
 >“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.”
@@ -154,5 +154,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEwODg1MzFdfQ==
+eyJoaXN0b3J5IjpbMTUwMTg5NzE3Nl19
 -->
