@@ -8,9 +8,8 @@
 Have the post-crisis unconventional monetary policies implemented by the ECB - namely [SMP](https://www.ecb.europa.eu/pub/pdf/other/mb201006_focus01.en.pdf?2b5c64d483a41a019fd461f595a36b46), [LTROs](https://www.ecb.europa.eu/press/pr/date/2011/html/pr111208_1.en.html), [OMT](https://www.ecb.europa.eu/press/pr/date/2012/html/pr120906_1.en.html) and [QE](https://www.ecb.europa.eu/explainers/show-me/html/app_infographic.en.html) -  increased income inequalities in the EU?
 
 # Motivation
-[enter link description here](https://www.youtube.com/watch?v=tB2CM2ngpQg)
+
 >“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.”
->[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)(https://www.youtube.com/watch?v=ek1j272iAmc)
 
 
 # Files
@@ -152,5 +151,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Njg4MDAwM119
+eyJoaXN0b3J5IjpbMjEwNzM0NTc1Ml19
 -->
