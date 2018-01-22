@@ -4,7 +4,7 @@
 |--|--|
 | Riccardo Filesi | 460856|
 
-## Stack Edit ##
+## Research Question ##
 
  If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -148,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTc2NDQ1M119
+eyJoaXN0b3J5IjpbMTc1MzA2NDAxMl19
 -->
