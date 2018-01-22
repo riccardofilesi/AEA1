@@ -11,7 +11,7 @@ Have the post-crisis unconventional monetary policies implemented by the ECB - n
 
 [![Demo Doccou alpha](https://j.gifs.com/mQ8V5n.gif)](https://www.youtube.com/watch?v=tB2CM2ngpQg)
 >“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.” - [Mario Draghi, UKTI's Global Investment Conference (26th July 2012)](https://www.youtube.com/watch?v=hMBI50FXDps&t=441s)
---------
+-
 The ECB is one of the main players in the Eurosystem. During the last financial crisis, it had the hard task to preserve the existence of a single currency in the Eurozone, relying in some cases on extraordinary monetary policies. Since the Euro is still in use, we can assume that such instruments have been successful in reaching their goal. But we may further study at what price the Euro has been preserved. In this sense, it is interesting to analyse the redistributive effects of unconventional monetary policies implemented over the period 2010-2015: how have they affected income differences among the EU population?
 
 
@@ -155,5 +155,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTUxOTgyNl19
+eyJoaXN0b3J5IjpbLTIxMDgxNzUwODddfQ==
 -->
