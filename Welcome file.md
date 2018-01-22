@@ -1,6 +1,6 @@
 # Unconventional Monetary Policies and Inequality in the EU
 | **Author**|Anr |
-|--|--|
+|	--	|	--|
 |Riccardo Filesi | 460856|
 | *Please find [here](https://github.com/riccardofilesi/AEA1/blob/master/Welcome%20file.md) the repository* | 
 ## Research Question
@@ -9,7 +9,7 @@ Have the post-crisis unconventional monetary policies implemented by the ECB - n
 # Motivation
 
 [![Demo Doccou alpha](https://j.gifs.com/mQ8V5n.gif)](https://www.youtube.com/watch?v=tB2CM2ngpQg)
->“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.”
+>“Within our mandate, the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough.” - Mario Draghi, 
 
 
 # Files
@@ -151,5 +151,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU1NDkwMzddfQ==
+eyJoaXN0b3J5IjpbLTEzNzc4Nzc4MDddfQ==
 -->
