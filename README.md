@@ -28,7 +28,7 @@ globalization is associated with lower income inequality (ibid.). I also take ac
 
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 ![equation]($$ Gini_t = \alpha + \beta_1 Gini_{t-1} + \beta_2 Gini_{t-2} + \beta_3 \frac{Credit_{t}}{GDP_t}  + \beta_4 \frac{FDI_{t}}{GDP_t} + \beta_5 Industrial_{t} + \beta_6 \frac{Export_{t}}{GDP_t}  $$)
-++++%24%24+Gini_t+%3D+%5Calpha+%2B+%5Cbeta_1+Gini_%7Bt-1%7D+%2B+%5Cbeta_2+Gini_%7Bt-2%7D+%2B+%5Cbeta_3+%5Cfrac%7BCredit_%7Bt%7D%7D%7BGDP_t%7D++%2B+%5Cbeta_4+%5Cfrac%7BFDI_%7Bt%7D%7D%7BGDP_t%7D+%2B+%5Cbeta_5+Industrial_%7Bt%7D+%2B+%5Cbeta_6+%5Cfrac%7BExport_%7Bt%7D%7D%7BGDP_t%7D++%24%24
+http://latex.codecogs.com/svg.latex?%24%24+Gini_t+%3D+%5Calpha+%2B+%5Cbeta_1+Gini_%7Bt-1%7D+%2B+%5Cbeta_2+Gini_%7Bt-2%7D+%2B+%5Cbeta_3+%5Cfrac%7BCredit_%7Bt%7D%7D%7BGDP_t%7D++%2B+%5Cbeta_4+%5Cfrac%7BFDI_%7Bt%7D%7D%7BGDP_t%7D+%2B+%5Cbeta_5+Industrial_%7Bt%7D+%2B+%5Cbeta_6+%5Cfrac%7BExport_%7Bt%7D%7D%7BGDP_t%7D++%24%24
                                                                      
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -168,5 +168,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk0MTU3MDJdfQ==
+eyJoaXN0b3J5IjpbLTExMDQwNTkyNTRdfQ==
 -->
