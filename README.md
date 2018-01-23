@@ -27,7 +27,7 @@ Furthermore, the export-to-GDP ratio is significantly negatively correlated with
 globalization is associated with lower income inequality (ibid.). I also take account of inflation. Hence, I first run run the following regression, including a first and second lag of the dependent variable to solve the likely presence of autocorrelation and accounting for Inflation:
 
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
-![equation]($$ Gini_t = \alpha + \beta_1 Gini_{t-1} + \beta_2 Gini_{t-2} + \beta_3 \frac{Credit_{t}}{GDP_t}  + \beta_4 \frac{FDI_{t}}{GDP_t} + \beta_5 Industrial_{t} + \beta_6 \frac{Export_{t}}{GDP_t}  $$)
+![equation](<a href="https://www.codecogs.com/eqnedit.php?latex=$$&space;Gini_t&space;=&space;\alpha&space;&plus;&space;\beta_1&space;Gini_{t-1}&space;&plus;&space;\beta_2&space;Gini_{t-2}&space;&plus;&space;\beta_3&space;\frac{Credit_{t}}{GDP_t}&space;&plus;&space;\beta_4&space;\frac{FDI_{t}}{GDP_t}&space;&plus;&space;\beta_5&space;Industrial_{t}&space;&plus;&space;\beta_6&space;\frac{Export_{t}}{GDP_t}&space;$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$&space;Gini_t&space;=&space;\alpha&space;&plus;&space;\beta_1&space;Gini_{t-1}&space;&plus;&space;\beta_2&space;Gini_{t-2}&space;&plus;&space;\beta_3&space;\frac{Credit_{t}}{GDP_t}&space;&plus;&space;\beta_4&space;\frac{FDI_{t}}{GDP_t}&space;&plus;&space;\beta_5&space;Industrial_{t}&space;&plus;&space;\beta_6&space;\frac{Export_{t}}{GDP_t}&space;$$" title="$$ Gini_t = \alpha + \beta_1 Gini_{t-1} + \beta_2 Gini_{t-2} + \beta_3 \frac{Credit_{t}}{GDP_t} + \beta_4 \frac{FDI_{t}}{GDP_t} + \beta_5 Industrial_{t} + \beta_6 \frac{Export_{t}}{GDP_t} $$)
             
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -167,5 +167,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMTg0NTczXX0=
+eyJoaXN0b3J5IjpbMTA1NjI4NTQ5MF19
 -->
