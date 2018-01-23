@@ -29,6 +29,20 @@ globalization is associated with lower income inequality (ibid.). I also take ac
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 ![equation]($$ Gini_t = \alpha + \beta_1 Gini_{t-1} + \beta_2 Gini_{t-2} + \beta_3 \frac{Credit_{t}}{GDP_t}  + \beta_4 \frac{FDI_{t}}{GDP_t} + \beta_5 Industrial_{t} + \beta_6 \frac{Export_{t}}{GDP_t}  $$)
 
+                                                                     Credit     
+                                                                           t    
+$$ Gini   =  alpha  +  beta  Gini       +  beta  Gini       +  beta  -------   +
+       t                   1     t - 1         2     t - 2         3  GDP       
+                                                                         t      
+                                                                                
+                   FDI                                  Export                  
+                      t                                       t                 
+             beta  ----  +  beta  Industrial   +  beta  -------  $$             
+                 4 GDP          5           t         6  GDP                    
+                      t                                     t                   
+
+
+
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -166,5 +180,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDQ2NDU1NV19
+eyJoaXN0b3J5IjpbLTIwMTIyOTEzNjFdfQ==
 -->
