@@ -17,7 +17,7 @@ The ECB is one of the main players in the Eurosystem. During the last financial 
 
 
 # Method
-The findings of suggest that the most significant variables for
+The findings of [Jaumotte et al. (2008)](https://www.imf.org/external/pubs/ft/wp/2008/wp08185.pdf) suggest that the most significant variables for
 explaining change in income inequality are credit to the private sector, the
 ratio of inward FDI (Foreign Direct Investment) to GDP and the industrial
 employment share. The first two variables have a positive correlation with
@@ -164,5 +164,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTI0NjU0MF19
+eyJoaXN0b3J5IjpbMTMxMDkwNDA5NF19
 -->
