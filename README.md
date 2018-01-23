@@ -26,9 +26,7 @@ in Gini, while industrial employment share is negatively associated with Gini.
 Furthermore, the export-to-GDP ratio is significantly negatively correlated with Gini, which suggests that trade
 globalization is associated with lower income inequality (ibid.). I also take account of inflation. Hence, I first run run the following regression, including a first and second lag of the dependent variable to solve the likely presence of autocorrelation and accounting for Inflation:
 
-$$\\
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-\\$$
+$$\(Gamma(z)\\)$$
 
 $$ Gini_t = \alpha + \beta_1 Gini_{t-1} + \beta_2 Gini_{t-2} + \beta_3 \frac{Credit_{t}}{GDP_t}  + \beta_4 \frac{FDI_{t}}{GDP_t} + \beta_5 Industrial_{t} + \beta_6 \frac{Export_{t}}{GDP_t}  $$
 
@@ -169,5 +167,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE2Nzg5MjBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTkxMjgwNzBdfQ==
 -->
