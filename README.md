@@ -23,9 +23,8 @@ ratio of inward FDI (Foreign Direct Investment) to GDP and the industrial
 employment share. The first two variables have a positive correlation with
 income inequality; that is, an increase in one of the two causes an increase
 in Gini, while industrial employment share is negatively associated with Gini.
-Furthermore, the export-to-GDP ratio as well as the inverse of the tariff rate
-are both significantly negatively correlated with Gini, which suggests that trade
-globalization is associated with lower income inequality (ibid.).As suggested by [Mehic (2017)](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8904917&fileOId=8906382). Income inequality regression models with applications.
+Furthermore, the export-to-GDP ratio is significantly negatively correlated with Gini, which suggests that trade
+globalization is associated with lower income inequality (ibid.). Hence
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -164,5 +163,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDkwNDA5NF19
+eyJoaXN0b3J5IjpbLTk0NTMwMDM5N119
 -->
