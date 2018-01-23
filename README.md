@@ -17,7 +17,7 @@ The ECB is one of the main players in the Eurosystem. During the last financial 
 
 
 # Method
-As suggested by 
+As suggested by [Mehic (2017)](). Income inequality regression models with applications.
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -156,5 +156,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NzY1NjA2XX0=
+eyJoaXN0b3J5IjpbLTIwODc5MTI4NzBdfQ==
 -->
