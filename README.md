@@ -24,9 +24,9 @@ employment share. The first two variables have a positive correlation with
 income inequality; that is, an increase in one of the two causes an increase
 in Gini, while industrial employment share is negatively associated with Gini.
 Furthermore, the export-to-GDP ratio is significantly negatively correlated with Gini, which suggests that trade
-globalization is associated with lower income inequality (ibid.). I also take account of inflation. Hence, I first run run the following regression, including a first and second lag of the dependent variable to solve the likely presence of autocorrelation:
+globalization is associated with lower income inequality (ibid.). I also take account of inflation. Hence, I first run run the following regression, including a first and second lag of the dependent variable to solve the likely presence of autocorrelation and accounting for Inflation:
 
-$$Gini_t = \alpha + \beta_1 Gini_{t-1} + \beta_2 Gini_{t-2} + \beta_3 Credit_{t}  + \beta_4 FDI_{t}  + \beta_3 Credit_{t}  $$
+$$Gini_t = \alpha + \beta_1 Gini_{t-1} + \beta_2 Gini_{t-2} + \beta_3 Credit_{t}  + \beta_4 FDI_{t}  + \beta_5 Credit_{t}  $$
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -165,5 +165,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcxMzY2MDVdfQ==
+eyJoaXN0b3J5IjpbMTMyMjYzMzMwMl19
 -->
